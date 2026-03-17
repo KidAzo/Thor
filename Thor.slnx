@@ -1,0 +1,21 @@
+﻿<Solution>
+  <Project Path="VFolders.csproj" />
+  <Project Path="Obvious.Soap.csproj" />
+  <Project Path="Obious.Soap.Example.csproj" />
+  <Project Path="Obvious.Soap.Editor.csproj" />
+  <Project Path="VHierarchy.csproj" />
+  <Project Path="BakeryEditorAssembly.csproj" />
+  <Project Path="VTabs.csproj" />
+  <Project Path="Unity.XR.Interaction.Toolkit.Samples.DeviceSimulator.csproj" />
+  <Project Path="VInspector.csproj" />
+  <Project Path="Unity.XR.Interaction.Toolkit.Samples.StarterAssets.csproj" />
+  <Project Path="Assembly-CSharp-Editor.csproj" />
+  <Project Path="VFavorites.csproj" />
+  <Project Path="BakeryRuntimeAssembly.csproj" />
+  <Project Path="Assembly-CSharp.csproj" />
+  <Project Path="BakeryAPV.csproj" />
+  <Project Path="Unity.XR.Interaction.Toolkit.Samples.StarterAssets.Editor.csproj" />
+  <Project Path="Obvious.Soap.Example.Editor.csproj" />
+  <Project Path="BakeryECS.csproj" />
+  <Project Path="PrimeTween.Installer.csproj" />
+</Solution>
