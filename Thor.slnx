@@ -4,6 +4,7 @@
   <Project Path="Obvious.Soap.csproj" />
   <Project Path="Obious.Soap.Example.csproj" />
   <Project Path="Obvious.Soap.Editor.csproj" />
+  <Project Path="Unity.RenderPipelines.Universal.Runtime.csproj" />
   <Project Path="Assembly-CSharp.csproj" />
   <Project Path="VHierarchy.csproj" />
   <Project Path="BakeryEditorAssembly.csproj" />
